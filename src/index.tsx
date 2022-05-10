@@ -4,6 +4,10 @@ import App from './App';
 
 import './Services/firebase';
 
+import './styles/global.scss';
+
+
+
 const root = ReactDOM.createRoot(
   document.getElementById('root') as HTMLElement
 );
